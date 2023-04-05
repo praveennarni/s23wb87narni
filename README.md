@@ -4,7 +4,7 @@ link to render page(https://s23wb87narni.onrender.com)
 
 Class attributes are:
 
-gift_type -string
+gift_name -string
 
 numof_gifts -number
 
